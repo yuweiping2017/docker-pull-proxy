@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yucloud/yucloud/alpine:20240606
+nginx:alpine registry.cn-hangzhou.aliyuncs.com/yucloud/yucloud/nginx:alpine
